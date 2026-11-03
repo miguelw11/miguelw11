@@ -45,25 +45,11 @@ Tenho desenvolvido projetos acadêmicos e práticos utilizando principalmente Py
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição |
-|---|---|
-| [🏭 Monitoramento Industrial](https://github.com/miguelw11/processoseletivoIoT-Miguel) | Experiência com desenvolvimento de soluções envolvendo monitoramento e integração de hardware e software. |
-| [🔬 TCC — PNAAT](https://github.com/miguelw11/tcc-pnaat) | Projeto acadêmico envolvendo visão computacional, inspeção e integração de tecnologias. |
-| [🎨 Paint](https://github.com/miguelw11/Paint-Computacao-Grafica) | Aplicação desenvolvida em C com conceitos de computação gráfica. |
-| [🧩 Projeto de Grafos](https://github.com/miguelw11/Projeto-de-Grafos-Labirinto-) | Aplicação de conceitos de teoria dos grafos na resolução de labirintos. |
-| [🌐 Sistemas Distribuídos](https://github.com/miguelw11/sistemas_distribuidos) | Práticas envolvendo sockets, RPC e comunicação entre processos. |
-
----
-
-## 📈 Minha trajetória
-
-Interesses e experiências construídos ao longo da graduação:
-
-- **Desenvolvimento de software:** Python, JavaScript e Node.js.
-- **Backend e dados:** PostgreSQL e desenvolvimento de aplicações.
-- **Sistemas distribuídos:** sockets, RPC e comunicação entre processos.
-- **Computação gráfica:** C e OpenGL.
-- **Hardware e integração:** Raspberry Pi 5, ESP32 e ESP-IDF.
+- **Monitoramento Industrial (HG)** — Sistema de monitoramento de perdas em esteiras industriais, integrando sensores, comunicação e aplicação web.
+- **TCC — PNAAT** — Projeto de inspeção visual e rastreabilidade utilizando visão computacional e integração entre hardware e software.
+- **Paint** — Aplicação desenvolvida em C com conceitos de computação gráfica e transformações geométricas.
+- **Projeto de Grafos — Labirinto** — Aplicação de teoria dos grafos na representação e resolução de labirintos.
+- **Sistemas Distribuídos** — Atividades práticas envolvendo sockets, RPC e comunicação entre processos.
 
 ---
 
